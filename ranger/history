@@ -1,0 +1,32 @@
+./Telegram
+dele
+open_with unzip
+move
+move 
+open_with ./
+mark 
+mark_files Ar
+rename Wallpaper1
+rename Wallpaper2
+rename Wallpaper1.jpg
+rename Wallpaper2.jpg
+mark_files 
+rename Wallpaper3
+rename Wallpaper3.jpg
+rename fcd
+rename Facultad
+rename Geekbench
+rename Pycharm_Community
+delete 
+delete
+rename Clone_Hero
+Q
+rename 
+rename Clone_Hero.x86_64
+open_with 
+rename Clone\ Hero.x86_64
+rename Clone Hero.x86_64
+
+mkdir Agiles
+cut 
+paste 

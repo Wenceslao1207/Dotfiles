@@ -1,0 +1,37 @@
+URxvt.background: #151515
+URxvt.foreground: #ffffff
+*color0:  #4141c9
+*color1:  #f8f8f8
+*color2:  #0084ff
+*color3:  #f7f7f7
+*color4:  #606060
+*color5:  #0084ff
+*color6:  #e2e2e2
+*color7:  #ffffff
+*color8:  #4141c9
+#*color8:  #252525
+*color9:  #f8f8f8
+*color10: #0084ff
+*color11: #f7f7f7
+*color12: #4141c9
+#*color12: #606060
+*color13: #0084ff
+*color14: #e2e2e2
+*color15: #ffffff
+URxvt.letterSpace: -1
+URxvt.font: xft:mono:medium:size=9
+URxvt.scrollBar: false
+URxvt.termName: rxvt-256color
+
+URxvt.iso14755: false
+
+URxvt.perl-ext: default,url-select
+URxvt.keysym.M-u: perl:url-select:select_next
+URxvt.url-select.launcher: /usr/bin/xdg-open
+URxvt.url-select.underline: true
+
+URxvt.perl-ext-common: default,clipboard
+URxvt.keysym.Shift-Control-C: perl:clipboard:copy
+URxvt.keysym.Shift-Control-V: perl:clipboard:paste
+
+rofi.lines: 1
